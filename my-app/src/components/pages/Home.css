@@ -1,0 +1,23 @@
+.section{
+    display: flex;
+    
+}
+
+.section .leftSection{
+    width: 50%;
+    height: 80vh;
+    background-color: #fefefe;
+}
+.section .rightSection{
+    width: 50%;
+    height: 80vh;
+    background-color: antiquewhite;
+}
+
+.leftSection img{
+    width: 500px;
+    height: 500px;
+    padding-top:12%;
+    padding-left: 10%;
+    
+}
